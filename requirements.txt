@@ -2,3 +2,7 @@ aiogram
 httpx
 beautifulsoup4
 asyncpg
+dotenv
+asyncio
+logging
+os
